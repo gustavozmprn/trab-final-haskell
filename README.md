@@ -1,1 +1,1 @@
-# trab-final-haskell
+# hs-interpreter-24-2
